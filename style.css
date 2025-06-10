@@ -50,3 +50,15 @@ p
 {
     background-color: rgb(200, 240, 255);
 }
+
+label
+{
+    font-family: Helvetica, sans-serif;
+    font-size: 90%;
+    color: bisque;
+}
+
+#text
+{
+    padding: 3px;
+}
