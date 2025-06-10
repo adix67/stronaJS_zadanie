@@ -12,11 +12,13 @@ body
 header
 {
     background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
 }
 
 main
 {
-    height: 300px;
+    height: 360px;
     background-color: midnightblue;
     color: whitesmoke;
 }
@@ -58,7 +60,31 @@ label
     color: bisque;
 }
 
-#text
+#theme
+{
+    padding: 5px 5px;
+    background-color: rgb(65, 131, 255);
+    color: rgb(255, 201, 231);
+    outline: auto rgb(0, 225, 255);
+}
+
+#theme:hover
+{
+    background-color: rgb(36, 71, 136);
+    cursor: pointer;
+}
+
+#text, #randomFact
 {
     padding: 3px;
+}
+
+.rndFact
+{
+    line-height: 3px;
+}
+
+hr
+{
+    padding: 0;
 }
