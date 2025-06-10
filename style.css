@@ -16,7 +16,7 @@ header
 
 main
 {
-    height: 200px;
+    height: 300px;
     background-color: midnightblue;
     color: whitesmoke;
 }
@@ -28,7 +28,7 @@ footer
 
 p
 {
-    width: 1000px;
+    width: 900px;
 }
 
 .light-mode
