@@ -4,6 +4,11 @@
     padding: 10px;
 }
 
+body
+{
+    background-color: rgb(43,43, 43);
+}
+
 header
 {
     background-color: cornflowerblue;
@@ -11,7 +16,7 @@ header
 
 main
 {
-    height: 80px;
+    height: 200px;
     background-color: midnightblue;
     color: whitesmoke;
 }
@@ -24,4 +29,24 @@ footer
 p
 {
     width: 1000px;
+}
+
+.light-mode
+{
+    background-color: cadetblue;
+}
+
+.normal
+{
+    background-color: white;
+}
+
+.header
+{
+    background-color: rgb(160, 200, 237);
+}
+
+.footer
+{
+    background-color: rgb(200, 240, 255);
 }
