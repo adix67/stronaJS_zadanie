@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 10px;
+}
+
+header
+{
+    background-color: cornflowerblue;
+}
+
+main
+{
+    height: 80px;
+    background-color: midnightblue;
+    color: whitesmoke;
+}
+
+footer
+{
+    background-color: aqua;
+}
+
+p
+{
+    width: 1000px;
+}
